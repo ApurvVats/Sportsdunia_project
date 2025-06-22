@@ -103,5 +103,6 @@ Transaction-triggered profit distribution systems
 
 👨‍💻 Author
 Apurv Vats
-📫 Email: apurvvts@gmail.com
-🔗 GitHub: @ApurvVats
+📫 Email: [apurvvts@gmail.com](mailto:apurvvts@gmail.com)  
+🔗 GitHub: [@ApurvVats](https://github.com/ApurvVats)
+
